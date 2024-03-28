@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/06-twittor/sw.js';
+var swLocation = '/app_patatera/sw.js';
 
 if(navigator.serviceWorker){
     if (url.includes('localhost')){
